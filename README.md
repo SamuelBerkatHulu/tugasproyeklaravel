@@ -1,4 +1,4 @@
-#Tugas Proyek Laravel
+# Tugas Proyek Laravel
 
 | Nama            | NRP       | Kelas      |
 |-----------------|-----------|------------|
