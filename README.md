@@ -32,3 +32,24 @@ Menampilkan halaman ``ABOUT``,
 
 ![contact](https://github.com/user-attachments/assets/7ed4fdad-2eea-4107-b336-a48a218db098)
 
+## Blade Componen
+### Halaman HOME
+
+![d](https://github.com/user-attachments/assets/da847887-2811-437e-b593-3ae5d1adb303)
+
+### Halaman BLOG
+
+![Screenshot 2024-10-19 182959](https://github.com/user-attachments/assets/e5f80e78-4c4c-4173-b06f-3bd31633cf4d)
+
+### Halaman ABOUT
+
+![Screenshot 2024-10-19 183015](https://github.com/user-attachments/assets/040e1e69-d007-49af-a236-a3315a109c32)
+
+
+### Halaman CONTACT
+
+![Screenshot 2024-10-19 183035](https://github.com/user-attachments/assets/6fd35298-bad9-4db6-9363-98535db9393f)
+
+
+
+
