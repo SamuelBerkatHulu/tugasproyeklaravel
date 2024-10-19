@@ -6,14 +6,14 @@ use Illuminate\Support\Facades\Route;
 //    return view('welcome');
 //});
 Route::get('/', function () {
-    return view('home', ['pemilik' => 'Samuel Berkat Hulu']);
+    return view('home', ['title' => 'Home Page']);
 });
 Route::get('/about', function () {
-    return view('about', ['nama' => 'Samuel Berkat Hulu']);
+    return view('about', ['title' => 'About', 'name' => 'Samuel Berkat Hulu']);
 });
 Route::get('/blog', function () {
-    return view('blog');
+    return view('blog', ['title' => 'Blog']);
 });
 Route::get('/contact', function () {
-    return view('contact');
+    return view('contact', ['title' => 'Contact']);
 });
