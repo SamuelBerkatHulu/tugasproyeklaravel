@@ -50,6 +50,19 @@ Menampilkan halaman ``ABOUT``,
 
 ![Screenshot 2024-10-19 183035](https://github.com/user-attachments/assets/6fd35298-bad9-4db6-9363-98535db9393f)
 
+## Finish Tutorial
+### Halaman Home
+![369893187-13b5f104-a386-408a-8378-ea32a970fe93](https://github.com/user-attachments/assets/9802dbf7-3ea2-4d02-a707-8271a40ef313)
+
+### Halaman Blog
+![372113628-04ccfbd9-aac0-4f14-abdf-e57569ed6318](https://github.com/user-attachments/assets/ae1d390d-43b1-45a2-b8f2-66f77ad51750)
+
+
+### Halaman Detail Blog
+
+
+
+
 
 
 
