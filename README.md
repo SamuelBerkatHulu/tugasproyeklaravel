@@ -59,6 +59,9 @@ Menampilkan halaman ``ABOUT``,
 
 
 ### Halaman Detail Blog
+![372113970-18244d4f-2da4-4969-9c9d-abe18b4eefbb](https://github.com/user-attachments/assets/cde70879-aa2f-4424-913c-6f1535b94258)
+
+
 
 
 
